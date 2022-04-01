@@ -5,8 +5,3 @@ const spiceAmount = ["teaspoon", "tablespoon", "1/2 tsp"];
 const panType = ["saute pan", "frying pan", "sauce pan", "oven"];
 const cookType = ["fry", "saute", "simmer", "roast"];
 
-function returnRandomItem(foodAmount){
-  const random = Math.floor(Math.random() * list.length);
-}
-console.log("did this work? ");
-
